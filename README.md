@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, Soy Pablo Martín López</h1>
 <h3 align="center">Un apasionado desarrollador frontend y backend</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pablomil200" alt="pablomil200" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/pablo_webdev__" target="blank"><img src="https://img.shields.io/twitter/follow/pablo_webdev__?logo=twitter&style=for-the-badge" alt="pablo_webdev__" /></a> </p>
 
 - 🔭 Actualmente estoy trabajando en [Alfinf](https://github.com/alfinfsi)
