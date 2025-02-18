@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/pablo_webdev__" target="blank"><img src="https://img.shields.io/twitter/follow/pablo_webdev__?logo=twitter&style=for-the-badge" alt="pablo_webdev__" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en [Alfinf](https://github.com/alfinfsi)
+- 🔭 Actualmente estoy buscando trabajo
 
-- 🌱 Actualmente estoy aprendiendo **Angular y Odoo**
+- 🌱 Actualmente estoy aprendiendo **Angular** y realizando el curso de **civerseguridad** de Google
 
 - 💬 Preguntame sobre **PHP, React, Javascript**
 
-- 📫 Como llegar a mi **martinlopezpablo@gmail.com**
+- 📫 Como contactar conmigo **martinlopezpablo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
