@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente estoy buscando trabajo
 
-- 🌱 Actualmente estoy aprendiendo **Angular** y realizando el curso de **civerseguridad** de Google
+- 🌱 Actualmente estoy aprendiendo **Angular** y realizando el curso de **ciberseguridad** de Google
 
 - 💬 Preguntame sobre **PHP, React, Javascript**
 
